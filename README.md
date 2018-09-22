@@ -13,3 +13,6 @@ The development scripts are organized with a four-digit number to indicate the o
 * __3000-run_keras_models__: use Keras to develop a neural network model.  The models are tuned on a limited parameter space
 * __4000-model_stacking__: use logistic regression to identify the optimal weights for each algorithm for ensembling
 * __predict_cy_production_2018__: the previous scripts are combined and streamlined to create this production script where **python3 predict_cy_production_2018.py** generates an csv file that shows the final prediction
+
+## Results
+The prediction results for 2018 season as fo the execution date can be found at __./Results/stack_results.csv__.
