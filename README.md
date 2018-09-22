@@ -1,4 +1,4 @@
-# predict_cy
+# Predict Cy Young Winners
 
 This small machine learning project predicts Cy Young Award winners by stacking multiple models: neural network, random forest, gradient boosted trees, and support vector machines.
 
