@@ -3,7 +3,7 @@
 This small machine learning project predicts Cy Young Award winners by stacking multiple models: neural network, random forest, gradient boosted trees, and support vector machines.
 
 ## Data Source
-The model is developed on data from 2006 to 2017.  Historical Cy Young award winner records are obtained from ESPN websites, and the performance statistics are downloaded from Fangraphs.  2006 season is used as the initial season because Fangraphs started to record advanced statistics since 2006.
+The model is developed on data from 2006 to 2017.  Historical Cy Young award winner records are obtained from ESPN website, and the performance statistics are downloaded from Fangraphs.  2006 season is used as the initial season because Fangraphs started to record advanced statistics since 2006.
 
 ## Programs
 The development scripts are organized with a four-digit number to indicate the order of running the codes.  
