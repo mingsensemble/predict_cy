@@ -8,7 +8,7 @@ import pandas as pd
 import pybaseball as pb
 
 # working directory
-wd = "/Users/ming-senwang/Dropbox/Current_Research/Predict_CY/"
+wd = "predict_cy/"
 data_dir = "./data/"
 os.chdir(wd)
 qual = 50

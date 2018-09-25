@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 
 # working directory
-wd = "/Users/ming-senwang/Dropbox/Current_Research/Predict_CY/"
+wd = "predict_cy/"
 data_dir = "./data/"
 os.chdir(wd)
 

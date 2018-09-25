@@ -14,7 +14,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    '--working_directory', type = str, default = '/Users/ming-senwang/my_git/predict_cy',
+    '--working_directory', type = str, default = 'predict_cy/',
     help = 'define working directory'
     )
 parser.add_argument(

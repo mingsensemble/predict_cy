@@ -11,8 +11,7 @@ import numpy as np
 import pandas as pd
 
 # working directory
-# wd = "/Users/ming-senwang/Dropbox/Current_Research/Predict_CY/"
-wd = "/home/ubuntu/Predict_CY/"
+wd = "/home/ubuntu/predict_cy/"
 data_dir = "./data/"
 res_dir = "./results/"
 os.chdir(wd)
