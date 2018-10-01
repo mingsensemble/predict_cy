@@ -1799,8 +1799,6 @@ Dallas Keuchel,0.0
 Kris Medlen,0.0
 Yu Darvish,0.0
 Jon Gray,0.0
-Marcus Stroman,0.0
-Zack Godley,0.0
 Kenley Jansen,0.0
 Alex Wood,0.0
 Jon Lester,0.0
@@ -1814,6 +1812,8 @@ Jacob deGrom,0.0
 Jose Quintana,0.0
 Danny Duffy,0.0
 Matt Shoemaker,0.0
+Marcus Stroman,0.0
+Zack Godley,0.0
 Anibal Sanchez,0.0
 James Paxton,0.0
 Tim Hudson,0.0
@@ -1890,7 +1890,6 @@ Scott Kazmir,0.0
 Sonny Gray,0.0
 Danny Salazar,0.0
 Mat Latos,0.0
-Patrick Corbin,0.0
 Masahiro Tanaka,0.0
 Mark Buehrle,0.0
 Javier Vazquez,0.0
@@ -1911,6 +1910,7 @@ Jacob deGrom,0.0
 Koji Uehara,0.0
 A.J. Burnett,0.0
 Derek Holland,0.0
+Patrick Corbin,0.0
 Jordan Zimmermann,0.0
 Collin McHugh,0.0
 Michael Fulmer,0.0
@@ -2026,7 +2026,6 @@ Sean Marshall,0.0
 Jake McGee,0.0
 Miguel Gonzalez,0.0
 David Robertson,0.0
-Addison Reed,0.0
 Cody Allen,0.0
 Colby Lewis,0.0
 Ian Kennedy,0.0
@@ -2057,6 +2056,7 @@ R.A. Dickey,0.0
 Pat Neshek,0.0
 Tyler Anderson,0.0
 Aroldis Chapman,0.0
+Addison Reed,0.0
 Mark Melancon,0.0
 Zach Britton,0.0
 Wei-Yin Chen,0.0
@@ -2091,7 +2091,6 @@ Michael Wacha,0.0
 Ivan Nova,0.0
 Chris Tillman,0.0
 Kyle Lohse,0.0
-Zack Greinke,0.0
 Kyle Gibson,0.0
 Masahiro Tanaka,0.0
 Alex Cobb,0.0
@@ -2127,6 +2126,7 @@ Rick Porcello,0.0
 Randy Wolf,0.0
 C.J. Wilson,0.0
 Matt Moore,0.0
+Zack Greinke,0.0
 Mike Clevinger,0.0
 Scott Diamond,0.0
 Yovani Gallardo,0.0
@@ -2158,6 +2158,7 @@ Matt Shoemaker,0.0
 Tim Hudson,0.0
 Ryan Vogelsong,0.0
 Jake Westbrook,0.0
+Martin Perez,0.0
 Henderson Alvarez,0.0
 Freddy Garcia,0.0
 Jake Peavy,0.0
@@ -2190,13 +2191,13 @@ Mike Leake,0.0
 Colby Lewis,0.0
 Paul Maholm,0.0
 Kenta Maeda,0.0
-Martin Perez,0.0
 Scott Feldman,0.0
 Tyler Chatwood,0.0
 Ted Lilly,0.0
 Andrew Cashner,0.0
 Jhoulys Chacin,0.0
 R.A. Dickey,0.0
+Kyle Freeland,0.0
 Jimmy Nelson,0.0
 Jake Odorizzi,0.0
 Ivan Nova,0.0
@@ -2234,7 +2235,6 @@ Jarred Cosart,0.0
 Dillon Gee,0.0
 Gavin Floyd,0.0
 Josh Collmenter,0.0
-Kyle Freeland,0.0
 Chris Narveson,0.0
 Chris Capuano,0.0
 J.A. Happ,0.0
@@ -2309,6 +2309,7 @@ Will Harris,0.0
 Ken Giles,0.0
 Sergio Romo,0.0
 Danny Farquhar,0.0
+Jason Vargas,0.0
 R.A. Dickey,0.0
 R.A. Dickey,0.0
 Jeremy Hellickson,0.0
@@ -2352,7 +2353,6 @@ Glen Perkins,0.0
 Kenley Jansen,0.0
 David Robertson,0.0
 Rafael Betancourt,0.0
-Jason Vargas,0.0
 Jorge De La Rosa,0.0
 Josh Tomlin,0.0
 Ian Kennedy,0.0
@@ -2470,6 +2470,7 @@ A.J. Griffin,0.0
 Dan Haren,0.0
 Drew Hutchison,0.0
 Chris Heston,0.0
+Lance Lynn,0.0
 Wily Peralta,0.0
 Yordano Ventura,0.0
 Tony Watson,0.0
@@ -2491,6 +2492,7 @@ A.J. Griffin,0.0
 Luke Weaver,0.0
 Ervin Santana,0.0
 Garrett Richards,0.0
+Dinelson Lamet,0.0
 Jonny Venters,0.0
 Francisco Rodriguez,0.0
 Zach McAllister,0.0
@@ -2522,7 +2524,6 @@ Alfredo Simon,0.0
 Jair Jurrjens,0.0
 James McDonald,0.0
 Derek Holland,0.0
-Lance Lynn,0.0
 Kyle Kendrick,0.0
 Felix Doubront,0.0
 Jeff Locke,0.0
@@ -2534,7 +2535,6 @@ Jordan Zimmermann,0.0
 Eric Stults,0.0
 Jesse Chavez,0.0
 Miguel Gonzalez,0.0
-Dinelson Lamet,0.0
 Wilton Lopez,0.0
 Jim Johnson,0.0
 Matt Garza,0.0
@@ -2557,6 +2557,7 @@ Brad Ziegler,0.0
 Brett Oberholtzer,0.0
 Hector Santiago,0.0
 Chris Capuano,0.0
+Sean Newcomb,0.0
 Jeremy Hefner,0.0
 Tyler Thornburg,0.0
 Matt Harvey,0.0
@@ -2578,9 +2579,9 @@ Mike Minor,0.0
 Jeremy Hellickson,0.0
 John Lannan,0.0
 Scott Kazmir,0.0
+Jaime Garcia,0.0
 Joe Kelly,0.0
 Kevin Correia,0.0
-Mychal Givens,0.0
 Mychal Givens,0.0
 Jake Peavy,0.0
 Jason Marquis,0.0
@@ -2593,7 +2594,6 @@ Cody Allen,0.0
 Luke Gregerson,0.0
 James Paxton,0.0
 Carlos Villanueva,0.0
-Kendall Graveman,0.0
 CC Sabathia,0.0
 Kyle Gibson,0.0
 Nathan Karns,0.0
@@ -2617,13 +2617,13 @@ Kameron Loe,0.0
 Josh Fields,0.0
 Juan Nicasio,0.0
 Chris Young,0.0
-Sean Newcomb,0.0
 Brian Duensing,0.0
 Phil Hughes,0.0
 Adam Warren,0.0
 Vinnie Pestano,0.0
 Tommy Hunter,0.0
 Jerad Eickhoff,0.0
+Ryan Buchter,0.0
 Eduardo Rodriguez,0.0
 AJ Ramos,0.0
 Koji Uehara,0.0
@@ -2650,13 +2650,14 @@ Julio Teheran,0.0
 JC Ramirez,0.0
 Phil Hughes,0.0
 Wade Davis,0.0
+Julio Teheran,0.0
 Matt Belisle,0.0
 Parker Bridwell,0.0
-Jaime Garcia,0.0
 Miguel Gonzalez,0.0
 Bruce Chen,0.0
 Tom Koehler,0.0
 Tyler Duffey,0.0
+Mychal Givens,0.0
 Michael Pineda,0.0
 Tyler Chatwood,0.0
 Travis Wood,0.0
@@ -2670,6 +2671,7 @@ Koji Uehara,0.0
 Shawn Tolleson,0.0
 Mike Bolsinger,0.0
 Travis Blackley,0.0
+Kendall Graveman,0.0
 Patrick Corbin,0.0
 Tyler Anderson,0.0
 David Phelps,0.0
@@ -2701,7 +2703,6 @@ Darren Oliver,0.0
 Wade Davis,0.0
 Sam Dyson,0.0
 Shawn Kelley,0.0
-Ryan Buchter,0.0
 David Hernandez,0.0
 Greg Holland,0.0
 Chris Tillman,0.0
@@ -2722,7 +2723,6 @@ Josh Tomlin,0.0
 Doug Fister,0.0
 Felix Hernandez,0.0
 J.A. Happ,0.0
-Julio Teheran,0.0
 A.J. Burnett,0.0
 Dylan Bundy,0.0
 Anibal Sanchez,0.0
@@ -3114,7 +3114,6 @@ Blake Beavan,0.0
 Andrew Triggs,0.0
 David Phelps,0.0
 Zach Britton,0.0
-Patrick Corbin,0.0
 Shane Greene,0.0
 Kelvin Herrera,0.0
 Mike Morin,0.0
@@ -3164,6 +3163,7 @@ Cesar Ramos,0.0
 Jamey Wright,0.0
 Gregory Infante,0.0
 Hector Rondon,0.0
+Heath Hembree,0.0
 A.J. Schugel,0.0
 Aaron Loup,0.0
 Carlos Marmol,0.0
@@ -3174,7 +3174,6 @@ Neal Cotts,0.0
 Mike Morin,0.0
 Corey Kluber,0.0
 Carl Pavano,0.0
-Adam Morgan,0.0
 Justin Germano,0.0
 Grant Balfour,0.0
 Brad Ziegler,0.0
@@ -3224,6 +3223,7 @@ Matt Andriese,0.0
 Adam Ottavino,0.0
 Drew Hutchison,0.0
 Robert Stephenson,0.0
+Patrick Corbin,0.0
 Jeremy Affeldt,0.0
 Blake Treinen,0.0
 T.J. McFarland,0.0
@@ -3231,7 +3231,6 @@ Aroldis Chapman,0.0
 Jake Petricka,0.0
 Scott Rice,0.0
 Jonathan Sanchez,0.0
-Rubby de la Rosa,0.0
 Shawn Kelley,0.0
 Rubby de la Rosa,0.0
 Danny Duffy,0.0
@@ -3249,7 +3248,6 @@ Santiago Casilla,0.0
 Zach McAllister,0.0
 Wilton Lopez,0.0
 Wesley Wright,0.0
-Heath Hembree,0.0
 Wade LeBlanc,0.0
 Sam LeCure,0.0
 Jose Veras,0.0
@@ -3261,6 +3259,7 @@ Tyler Lyons,0.0
 Manny Parra,0.0
 Jordan Lyles,0.0
 Tony Barnette,0.0
+Adam Morgan,0.0
 Ernesto Frieri,0.0
 Jake Petricka,0.0
 Rich Thompson,0.0
@@ -3307,6 +3306,7 @@ Luis Garcia,0.0
 Kirby Yates,0.0
 Matt Barnes,0.0
 T.J. McFarland,0.0
+Rubby de la Rosa,0.0
 Mike Pelfrey,0.0
 Tyler Wilson,0.0
 Ronald Belisario,0.0
@@ -3339,7 +3339,6 @@ AJ Ramos,0.0
 Jake Diekman,0.0
 Alex Wilson,0.0
 Zach Stewart,0.0
-Steven Matz,0.0
 Josh Johnson,0.0
 Jarred Cosart,0.0
 Frank Francisco,0.0
@@ -3379,7 +3378,6 @@ Bryan Morris,0.0
 Jerry Blevins,0.0
 Jamey Wright,0.0
 Chris Resop,0.0
-Randall Delgado,0.0
 Wily Peralta,0.0
 Allen Webster,0.0
 Francis Martes,0.0
@@ -3418,6 +3416,7 @@ Christian Bergman,0.0
 Zack Wheeler,0.0
 Mike Clevinger,0.0
 Matt Moore,0.0
+Matt Cain,0.0
 John Danks,0.0
 Jeff Francis,0.0
 Brandon League,0.0
@@ -3431,6 +3430,7 @@ Hector Noesi,0.0
 Charlie Morton,0.0
 Fernando Salas,0.0
 Fernando Rodriguez,0.0
+Steven Matz,0.0
 Keyvius Sampson,0.0
 Tyler Cloyd,0.0
 Todd Redmond,0.0
@@ -3462,6 +3462,7 @@ David Pauley,0.0
 Arquimedes Caminero,0.0
 Ronald Belisario,0.0
 Doug Fister,0.0
+Randall Delgado,0.0
 Mike Dunn,0.0
 John Axford,0.0
 Esmil Rogers,0.0
@@ -3506,8 +3507,7 @@ Ramon Ramirez,0.0
 Brad Hand,0.0
 Ryan Vogelsong,0.0
 Henry Sosa,0.0
-Matt Cain,0.0
-Luke Sims,0.0
+Lucas Sims,0.0
 Mike Wright,0.0
 Christian Bergman,0.0
 Richard Bleier,0.0
@@ -3541,11 +3541,13 @@ Christian Friedrich,0.0
 Hisanori Takahashi,0.0
 Chris Young,0.0
 Tim Lincecum,0.0
+Jake Odorizzi,0.0
 Jerome Williams,0.0
 Ryan Vogelsong,0.0
 Carlos Torres,0.0
 Matt Wisler,0.0
 Ariel Miranda,0.0
+Mike Fiers,0.0
 Jeremy Hellickson,0.0
 Jean Machi,0.0
 Tony Watson,0.0
@@ -3638,13 +3640,10 @@ Preston Claiborne,0.0
 Jarred Cosart,0.0
 Kevin Correia,0.0
 Jered Weaver,0.0
-Jake Odorizzi,0.0
 Jake Arrieta,0.0
-Jharel Cotton,0.0
 Micah Owings,0.0
 Roberto Hernandez,0.0
 Eric Stults,0.0
-Mike Fiers,0.0
 Santiago Casilla,0.0
 Jose Torres,0.0
 Jake Westbrook,0.0
@@ -3700,6 +3699,7 @@ Wade LeBlanc,0.0
 Pat Dean,0.0
 John Lamb,0.0
 Louis Coleman,0.0
+Jharel Cotton,0.0
 J.J. Hoover,0.0
 Adam Conley,0.0
 Marco Estrada,0.0
@@ -3775,6 +3775,7 @@ Hector Santiago,0.0
 Jerome Williams,0.0
 JC Ramirez,0.0
 Matt Reynolds,0.0
+Junichi Tazawa,0.0
 Tommy Milone,0.0
 Clayton Mortensen,0.0
 Ross Detwiler,0.0
@@ -3811,7 +3812,6 @@ Freddy Garcia,0.0
 Felix Doubront,0.0
 Kyle Drabek,0.0
 Brian Duensing,0.0
-Junichi Tazawa,0.0
 Jamey Wright,0.0
 Joe Smith,0.0
 Arquimedes Caminero,0.0
@@ -3960,7 +3960,7 @@ Aaron Crow,0.0
 James Shields,0.0
 Mike Pelfrey,0.0
 Jason Marquis,0.0
+Chris Young,0.0
 Amir Garrett,0.0
 Chris Beck,0.0
 Dylan Covey,0.0
-Chris Young,0.0
